@@ -6,10 +6,10 @@ The Frontend implements a interactive sliding movie design, and also links the t
 
 
 Review Section for the webpage
-![img.png](img.png)
+![img.png](Img/img.png)
 
 Home Page
-![Screenshot from 2024-02-09 17-17-41.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-02-09%2017-17-41.png)
+![img2.png](Img%2Fimg2.png)
 
 Movie Trailer Page
-![Screenshot from 2024-02-09 17-18-58.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-02-09%2017-18-58.png)
+![img3.png](Img%2Fimg3.png)
